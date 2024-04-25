@@ -274,7 +274,7 @@ export default App;
 </details>
 
 
-## ![rocket](image.png) Next steps : 
+## Next steps : 
 
 - Affichage de la liste des utilisateurs actuellement connecté au chat
 
